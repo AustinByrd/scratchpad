@@ -1,6 +1,6 @@
 puts ""
-print "what is your quest"
-quest = gets()
-puts "#{quest}"
+print "what is your favorite color"
+color = gets()
+puts "#{color}"
 
 
