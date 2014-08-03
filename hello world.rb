@@ -1,6 +1,6 @@
-puts "eat me dill hole"
-print "insert random insult"
-insult = gets()
-puts "eat me#{insult}"
+puts "wait here while I go jack off"
+print "give me something better to say"
+ say = gets()
+puts "wait here while I#{say}"
 
 
