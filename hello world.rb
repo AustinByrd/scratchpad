@@ -1,6 +1,6 @@
-puts "wait here while I go jack off"
-print "give me something better to say"
- say = gets()
-puts "wait here while I#{say}"
+puts "it's a bird it's a plane it's"
+print "what is it"
+blank = gets()
+puts "it's a bird it's a pane it's #{blank}"
 
 
