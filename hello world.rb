@@ -1,6 +1,6 @@
-puts "the only thing we have to fear is "
-print "finish line"
-fear = gets()
-puts "the only thing we have to fear is#{fear}"
+puts "hi i'm austin how are you"
+print "enter name"
+name = gets()
+puts "hi i'm #{name} how are you"
 
 
