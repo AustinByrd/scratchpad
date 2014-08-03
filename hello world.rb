@@ -1,5 +1,6 @@
 puts ""
-print "what is your name"
-name = gets()
-puts "#{name}"
+print "what is your quest"
+quest = gets()
+puts "#{quest}"
+
 
