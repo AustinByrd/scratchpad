@@ -1,4 +1,4 @@
-puts 'whats up bitches'
-print 'please enter your name'
+puts "what's up bitches "
+print
 name = gets()
-puts "whats up #{name}"
+puts "#{}"

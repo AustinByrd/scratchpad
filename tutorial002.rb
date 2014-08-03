@@ -15,10 +15,10 @@ end
 
 i = 2
 while 1==1 do
- i = i + 1
-t0 = time.now.to_f
+  i = i + 1
+  #t0 = time.now.to_f
   if is_prime(i)
-dt = time.now.to_f
+  #dt = time.now.to_f
    puts  "found a prime: #{i}"
    end
 end

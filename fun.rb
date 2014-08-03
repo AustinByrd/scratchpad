@@ -1,0 +1,1 @@
+"go hang a salami im a lasagna hog" .reverse
