@@ -86,5 +86,6 @@ all_sub_species.each {|k,v|
     puts w.inspect + " " + v.instance_variable_get(w)
   }
 }
-
-
+sub_species_name = gets().strip
+puts sub_species_name.inspect
+puts all_sub_species[sub_species_name].inspect
