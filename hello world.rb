@@ -1,6 +1,6 @@
-puts ""
-print "what is your favorite color"
-color = gets()
-puts "#{color}"
+puts "eat me dill hole"
+print "insert random insult"
+insult = gets()
+puts "eat me#{insult}"
 
 
