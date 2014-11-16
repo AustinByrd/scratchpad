@@ -3,7 +3,7 @@ def is_even?(x)
 end
 
 def is_prime(x)
-  # go fuck your self
+  # Is x a prime number?
    upper_limit = 1+(x/2).round
    (2..upper_limit).each { |i|
       if x%i == 0
